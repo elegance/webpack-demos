@@ -1,0 +1,1 @@
+var data = 'Hello, I am is Data!';
